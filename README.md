@@ -1,3 +1,5 @@
 # SuperSimpleStockMarket
-JP Morgan Assiment of Super Simple stock assignment
-Please download and refer Readme.docx file for details of project and output screens.
+
+JP Morgan Assiment of Super Simple stock assignment.
+
+Please download file 'Readme.docx'  and refer it for details of project and output screens.

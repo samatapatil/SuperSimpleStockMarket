@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperSimpleStockMarket", "SuperSimpleStockMarket\SuperSimpleStockMarket.csproj", "{D2514146-9796-48EB-A6FC-D252ACAD4FEA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperSimpleStockMarketTest", "SuperSimpleStockMarketTest\SuperSimpleStockMarketTest.csproj", "{DDCF8016-BC0A-4546-A8DF-E1C0CBD125C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Readme", "Readme", "{FD717FF3-97FF-4BD4-B0E9-F73C84BBEF6D}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.docx = Readme.docx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2514146-9796-48EB-A6FC-D252ACAD4FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2514146-9796-48EB-A6FC-D252ACAD4FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2514146-9796-48EB-A6FC-D252ACAD4FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2514146-9796-48EB-A6FC-D252ACAD4FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDCF8016-BC0A-4546-A8DF-E1C0CBD125C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCF8016-BC0A-4546-A8DF-E1C0CBD125C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCF8016-BC0A-4546-A8DF-E1C0CBD125C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCF8016-BC0A-4546-A8DF-E1C0CBD125C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96A6FD5D-F670-407C-B87B-E7DC9FD21A8F}
+	EndGlobalSection
+EndGlobal
